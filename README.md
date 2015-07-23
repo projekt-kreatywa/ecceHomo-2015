@@ -1,4 +1,7 @@
 # ecceHomo-2015
+
+[![__deus_ex_machina__](https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11703214_10206383486958960_4976348514500303363_n.jpg?oh=6ded503c8adceabba2fae89ce66966c1&oe=5659E90A)](https://github.com/projekt-kreatywa/__deus_ex_machina__) 
+
 ecceHomo 2015 edition is an exploration of shapes. call it a quasi-automatic workflow for graphical mass-exploration. 
 
 the purpose of it all is matching vector shapes (.svg format) with text (.md or .json files for the start) that include short stories and dialogs.
